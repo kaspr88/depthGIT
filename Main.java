@@ -12,6 +12,7 @@ public final class Main {
             int result = (n * (n + 1)) / 2;
             System.out.println(result);
             System.out.println(1);
+            System.out.println(2);
             
         }
     }
