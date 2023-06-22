@@ -11,9 +11,5 @@ public final class Main {
             int n = in.nextInt();
             int result = (n * (n + 1)) / 2;
             System.out.println(result);
-            System.out.println(n);
-            System.out.println(n+result);
         }
     }
-
-}
